@@ -1,0 +1,66 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void DragObj_Awake_m288B3A7B798ECFFA8CF340141F3D38E6BAB3E901 (void);
+extern void DragObj_OnBeginDrag_m85284A19B359494AF565D949F073D6115448DF90 (void);
+extern void DragObj_OnDrag_m441930AA2A9430E2E0078FFE75BB073890E9A337 (void);
+extern void DragObj_OnEndDrag_mA1B5D0D4CE6C2917F4408052299330025373BE1E (void);
+extern void DragObj_OnTriggerEnter2D_m3F58741F06F25B97C7B5E21598CE4515DB2A178C (void);
+extern void DragObj_OnTriggerStay2D_m8A77F773DCB8C8D843ABED606C5C3A7BB3F51438 (void);
+extern void DragObj_OnTriggerExit2D_m07F7833DF1F93B29BF58F6B8DB12EC45DEF27328 (void);
+extern void DragObj__ctor_mF1077FD860C1B3BDA70175B423B075086C8E7346 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[10] = 
+{
+	DragObj_Awake_m288B3A7B798ECFFA8CF340141F3D38E6BAB3E901,
+	DragObj_OnBeginDrag_m85284A19B359494AF565D949F073D6115448DF90,
+	DragObj_OnDrag_m441930AA2A9430E2E0078FFE75BB073890E9A337,
+	DragObj_OnEndDrag_mA1B5D0D4CE6C2917F4408052299330025373BE1E,
+	DragObj_OnTriggerEnter2D_m3F58741F06F25B97C7B5E21598CE4515DB2A178C,
+	DragObj_OnTriggerStay2D_m8A77F773DCB8C8D843ABED606C5C3A7BB3F51438,
+	DragObj_OnTriggerExit2D_m07F7833DF1F93B29BF58F6B8DB12EC45DEF27328,
+	DragObj__ctor_mF1077FD860C1B3BDA70175B423B075086C8E7346,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[10] = 
+{
+	12821,
+	9815,
+	9815,
+	9815,
+	9815,
+	9815,
+	9815,
+	12821,
+	20440,
+	12821,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	10,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

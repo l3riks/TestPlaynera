@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Work\Game\testovoePlaynera\.utmp\RelWithDebInfo\1r701o5k\armeabi-v7a'
+ninja: no work to do.
